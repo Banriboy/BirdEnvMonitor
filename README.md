@@ -15,4 +15,4 @@ This project was submitted to and presented at [AnimalHack 2024](https://animalh
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/c5ea02d6-68e4-4330-8955-97d3e6e0b8f7">
 
 
-#Demo
+# Demo
