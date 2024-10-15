@@ -14,6 +14,5 @@ This project was submitted to and presented at [AnimalHack 2024](https://animalh
 
 
 # Demo
-The weather data was ingested every 20 seconds in this case for a demonstration purpose. As you can see, the weather conditions data and bird detection information are being uploaded automatically in real time. 
 https://github.com/user-attachments/assets/2bf508fb-d21a-4469-9aa3-f2bbbfa0bef3
 
