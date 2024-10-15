@@ -1,6 +1,6 @@
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/67021c70-d8ec-4720-91ca-373c20b2bcb7">
-
-
+                                             
+                                       
 
 The Bird Activity and Environment Monitoring System was developed from my curiosity about bird songs and their correlation with time and weather. 
 
@@ -10,9 +10,9 @@ This project was submitted to and presented at [AnimalHack 2024](https://animalh
 
 
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/007dafc8-dbb5-48ba-82da-e8928b90ea7b">
-
-
-
+                                       
+                                               
+                                    
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/c5ea02d6-68e4-4330-8955-97d3e6e0b8f7">
 
